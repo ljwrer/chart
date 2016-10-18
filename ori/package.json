@@ -1,0 +1,16 @@
+{
+  "name": "ori",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ori.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "echarts": "^3.2.3",
+    "jquery": "^3.1.1",
+    "lodash": "^4.16.4"
+  }
+}
