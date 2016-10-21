@@ -3,10 +3,10 @@
  */
 
     "use strict";
-    var atom = require('./atom/unit/index');
-    var ori = require('./ori/ori');
+    var atom = require('./atom/atom');
+    var Chart = require('./ori/ori');
     module.exports = {
         atom: atom,
-        ori:ori
+        Chart:Chart
     };
 
