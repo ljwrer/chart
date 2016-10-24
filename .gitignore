@@ -26,3 +26,5 @@ node_modules
 npm-debug.log*
 css/**/*.*
 dist/
+/validate.js
+/bundle.js

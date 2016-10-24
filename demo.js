@@ -1,8 +1,8 @@
 /**
  * Created by Ray on 2016/10/14.
  */
-var atom = require('./atom/index');
-var Chart = require('./ori/ori2');
+var atom = require('./atom/atom');
+var Chart = require('./ori/ori');
 var _ = require('lodash');
 var data0 = ['直接访问', '邮件营销', '联盟广告', '视频广告', '搜索引擎'];
 var data1 = ['直达', '营销广告', '搜索引擎', '邮件营销', '联盟广告', '视频广告', '百度', '谷歌', '必应', '其他'];
